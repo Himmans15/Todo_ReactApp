@@ -11,6 +11,7 @@ const TaskCard = () => {
         <div  className='task_card_tags'>
             <Tag tagName='Urgent'/>
         </div>
+          
         <div className='task_delete'>
             <img src={deleteicon} className='delete_icon' alt='' />
         </div>
