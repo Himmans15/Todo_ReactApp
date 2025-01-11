@@ -27,6 +27,8 @@ The project is created with React.js and uses state management for handling the 
 Before you begin, ensure you have the following installed:
 
 - **Node.js** and **npm** (Node Package Manager). You can download and install them from [here](https://nodejs.org/).
+  ```bash
+  npm install
 
 ### Steps to Run Locally
 
