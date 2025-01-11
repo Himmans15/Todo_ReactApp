@@ -17,8 +17,8 @@ The project is created with React.js and uses state management for handling the 
   
 - **Add Tasks**: Add tasks to any of the three categories.
 - **Delete Tasks**: Remove tasks from the list once they are done.
+- **Multiple Tags**: Tasks assign with muliple tags 
 
-  
 
 ## Installation
 
