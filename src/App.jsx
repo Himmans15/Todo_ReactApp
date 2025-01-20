@@ -1,5 +1,5 @@
-import React,{useState} from 'react'
-import "./App.css"
+import React,{useState} from 'react';
+import "./App.css";
 import Taskform from './components/Taskform';
 import TaskColumn from './components/TaskColumn';
 import todoicon from './assets/direct-hit.png'
