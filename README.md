@@ -21,7 +21,7 @@ The project is created with React.js and uses state management for handling the 
 
 
 ## Installation
-
+ 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
